@@ -16,4 +16,3 @@ hotel_dict = {
         ],  
     }
 print(hotel_dict)
-print("Prueba de PR")
